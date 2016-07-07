@@ -3,4 +3,4 @@
 - app should show available elementary and secondary schools for a given location
 - app should show main grocery stores for a given location
 - app should show main train stations for a given location
-*App will be making use of the Google maps api
+- App will be making use of the Google maps api
