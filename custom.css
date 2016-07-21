@@ -1,8 +1,15 @@
 /* Custom css */
 
 #mapResult {
-    width: 600px;
-    height: 400px;
+    width: 700px;
+    height: 450px;
     
 }
 
+li {
+    background-color:#eff5f5;
+}
+
+li:nth-child(odd){
+    background-color:#d0e1e1;
+}
